@@ -103,6 +103,7 @@ Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus
 | Introduction to Dark Web Operations | Security Blue Team | 5h |[📁 PDF](/Certificados/Introduction_to_Dark_Web_Operations-course.pdf) |
 | Defesa de Redes | Cisco Networking Academy | 27h |[📁 PDF](/Certificados/cisco_NetworDefense.pdf) |
 | Cyber Defence Strategies | IT Masters - Charles Sturt University | 20h |[📁 PDF](/Certificados/Certificate_of_Completion.pdf) |
+| Pentest com IA: Inteligência Artificial em Ethical Hacking | Udemy | 6h |[📁 PDF](/Certificados/Certificados/Pentest_com_IA_Inteligência_Artificial_em_Ethical_Hacking.pdf) |
 
 ### 📊 Análise de Dados
 | Curso | Plataforma | Carga Horária | Certificado |
@@ -115,8 +116,8 @@ Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus
 | Inglês B2 | Step by Step | 6 anos | [📁 PDF](/Certificados/certificado_ingles.pdf) |
 
 ## 📊 Estatísticas
-✅ **Total de certificados:** 10  
-⏳ **Total de horas de cursos:** 393 horas  
+✅ **Total de certificados:** 11  
+⏳ **Total de horas de cursos:** 399 horas  
 
 📌 **Última atualização:** 03/08/2025
 
