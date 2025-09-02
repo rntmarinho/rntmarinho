@@ -1,4 +1,4 @@
-# Sobre Mim (About Me)
+# Sobre Mim
 
 ## 📄 Resumo Profissional
 
