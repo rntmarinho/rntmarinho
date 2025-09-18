@@ -90,7 +90,7 @@ Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus
 *__Tecnologias:__ JavaScript.*
 
 ---
-## 🏆 Certificados
+## 🏆 Certificados e Certificações
 
 ### 💻 Tecnologia
 | Curso | Plataforma | Carga Horária | Certificado |
