@@ -92,10 +92,10 @@ Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus
 ---
 ## 🏆 Certificados e Certificações
 
-###🎖📜 Certificações Profissionais
-| Certificação | Credencial | Validade | 
+### 📜 Certificações
+| Certificação | Plataforma | Validade | Credencial |
 |-------|------------|--------------|-------------|
-|teste | teste |teste |
+| teste | teste | 36h | [📁 PDF](/Certificados/azureCloudComputing.pdf) |
 
 ### 💻 Tecnologia
 | Curso | Plataforma | Carga Horária | Certificado |
