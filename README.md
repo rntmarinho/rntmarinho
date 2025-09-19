@@ -92,6 +92,11 @@ Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus
 ---
 ## 🏆 Certificados e Certificações
 
+###🎖📜 Certificações Profissionais
+| Certificação | Credencial | Validade | 
+|-------|------------|--------------|-------------|
+|teste | teste |teste |
+
 ### 💻 Tecnologia
 | Curso | Plataforma | Carga Horária | Certificado |
 |-------|------------|--------------|-------------|
@@ -106,6 +111,7 @@ Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus
 | Pentest com IA: Inteligência Artificial em Ethical Hacking | Udemy | 6h |[📁 PDF](/Certificados/Pentest_com_IA_Inteligencia_Artificial_em_Ethical_Hacking.pdf) |
 | Introdução à inteligência artificial: conceitos básicos | Fundação Getúlio Vargas | 1h |[📁 PDF](/Certificados/intro-IA_certificado_Fgv.pdf) |
 | IA generativa e ChatGPT potencializando o trabalho e ganhando eficiência | Fundação Getúlio Vargas | 1h |[📁 PDF](/Certificados/IA-generativa_certificado_Fgv.pdf) |
+| Fundamentos de Ethical Hacking: curso prático | Udemy | 24,5h |[📁 PDF](/Certificados/ethical-hacking.pdf) |
 
 ### 📊 Análise de Dados
 | Curso | Plataforma | Carga Horária | Certificado |
@@ -118,8 +124,8 @@ Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus
 | Inglês B2 | Step by Step | 6 anos | [📁 PDF](/Certificados/certificado_ingles.pdf) |
 
 ## 📊 Estatísticas
-✅ **Total de certificados:** 13  
-⏳ **Total de horas de cursos:** 401 horas  
+✅ **Total de certificados:** 14  
+⏳ **Total de horas de cursos:** 425,5 horas  
 
 📌 **Última atualização:** 01/09/2025
 
