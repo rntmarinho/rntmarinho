@@ -92,10 +92,10 @@ Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus
 ---
 ## 🏆 Certificados e Certificações
 
-### 📜 Certificações
-| Certificação | Plataforma | Validade | Credencial |
+### 📜 Certificações Profissionais
+| Certificação | Epresa | Validade | Credencial |
 |-------|------------|--------------|-------------|
-| teste | teste | 36h | [📁 PDF](/Certificados/azureCloudComputing.pdf) |
+| TOEFL iBT | EST | 10/2027 | [📁 PDF](/Certificados/TOEFL_Score_Report_2017847.pdf) |
 
 ### 💻 Tecnologia
 | Curso | Plataforma | Carga Horária | Certificado |
