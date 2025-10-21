@@ -49,7 +49,7 @@ Busco integrar expertise técnica e segurança para garantir a robustez operacio
 **Especialização em Segurança da Informação** | Universidade Estácio de Sá
 
 *Período: Agosto, 2024 – Junho, 2025*
-* **Principais Tópicos:** Fundamentos de segurança, gestão de segurança em redes, crimes cibernéticos e computação forense, segurança em cloud computing e auditoria de sistemas.
+* **Principais Tópicos:** Fundamentos de segurança, LGPD, gestão de segurança em redes, crimes cibernéticos e computação forense, segurança em cloud computing e auditoria de sistemas.
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Centro Universitário UNA
 
