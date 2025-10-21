@@ -95,7 +95,7 @@ Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus
 ### 📜 Certificações Profissionais
 | Certificação | Epresa | Validade | Credencial |
 |-------|------------|--------------|-------------|
-| TOEFL iBT | EST | 10/2027 | [📁 PDF](/Certificados/TOEFL_Score_Report_2017847.pdf) |
+| TOEFL iBT | ETS | 10/2027 | [📁 PDF](/Certificados/TOEFL_Score_Report_2017847.pdf) |
 
 ### 💻 Tecnologia
 | Curso | Plataforma | Carga Horária | Certificado |
