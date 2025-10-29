@@ -20,6 +20,7 @@ Busco integrar expertise técnica e segurança para garantir a robustez operacio
 
 *Período: Fevereiro, 2024 – Presente*
 
+* Desenvolvimento fullstack: React, Python, Sql Server
 * Suporte técnico especializado a usuários e à infraestrutura de redes.
 * Configuração e administração de equipamentos de rede, incluindo servidores, access points, switches e firewall PFSense.
 * Gerenciamento de servidores Windows Server, com implementação de rotinas de backup em nuvem e local.
