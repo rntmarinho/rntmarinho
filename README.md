@@ -1,5 +1,8 @@
 # Sobre Mim
 
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+
 ## 📄 Resumo Profissional
 
 Profissional de TI com especialização em Segurança da Informação, graduada em Análise e Desenvolvimento de Sistemas e formação técnica em informática. Minha experiência consolidada abrange:
