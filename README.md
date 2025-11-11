@@ -93,6 +93,12 @@ Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus
 <br>
 *__Tecnologias:__ JavaScript.*
 
+**[Projetos Distintos](https://github.com/rntmarinho/projetos)**
+<br>
+Projetos de gestão e repositório de projetos distintos.
+<br>
+*__Tecnologias:__ Excel.*
+
 ---
 ## 🏆 Certificados e Certificações
 
