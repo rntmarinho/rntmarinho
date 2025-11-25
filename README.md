@@ -26,7 +26,7 @@ Busco integrar expertise técnica e segurança para garantir a robustez operacio
 * Desenvolvimento fullstack: React, Python, Sql Server
 * Suporte técnico especializado a usuários e à infraestrutura de redes.
 * Configuração e administração de equipamentos de rede, incluindo servidores, access points, switches e firewall PFSense.
-* Gerenciamento de servidores Windows Server, com implementação de rotinas de backup em nuvem e local.
+* Gerenciamento de servidores Windows Server e Linux Ubuntu, com implementação de rotinas de backup em nuvem e local.
 * Liderança em projetos de infraestrutura, com destaque para a implementação de SharePoint com Microsoft 365.
 * Desenvolvimento de práticas de Governança de TI, incluindo a criação de documentação de processos e gestão de inventário de ativos.
 
